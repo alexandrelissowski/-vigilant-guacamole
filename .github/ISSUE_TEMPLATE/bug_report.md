@@ -5,7 +5,7 @@ title: ''
 labels: bug
 assignees: ''
 type: Bug
-
+projects: ["projects/1"]
 ---
 
 **Describe the bug**
