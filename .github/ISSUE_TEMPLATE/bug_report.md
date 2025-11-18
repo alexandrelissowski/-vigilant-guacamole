@@ -5,6 +5,8 @@ title: ''
 labels: bug
 assignees: ''
 type: Bug
+project : [projects/1]
+milestone: [milestone/1]
 
 ---
 
